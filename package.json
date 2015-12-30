@@ -9,9 +9,10 @@
     "yetify": "0.0.1"
   },
   "main": "server.js",
+  "start": "node server.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:andyet/signal-master.git"
+    "url": "git@github.com:eriksch/signal-master.git"
   },
   "devDependencies": {
     "socket.io-client": "0.9.16",
