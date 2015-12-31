@@ -21,7 +21,7 @@
   "turnservers": [
     {
       "urls": ["turn:fronteers.trimm.nl"],
-      "secret": "",
+      "secret": "secret",
       "expiry": 86400
     }
   ]
